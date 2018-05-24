@@ -1,2 +1,0 @@
-24/5/18 - Add mais pastas
-	- Fazer por etapas para chegar a GameObject desde concept art a GO
